@@ -1,0 +1,4 @@
+*/__pycache__/
+Data/Result/*
+Data/*.mp4
+*.pt

@@ -1,0 +1,4 @@
+video_name: street-4.avi
+desired_fps: 15
+# yolov8x or yolov8n 
+model: yolov8x
